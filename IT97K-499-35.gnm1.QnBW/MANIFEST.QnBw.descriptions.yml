@@ -1,0 +1,6 @@
+%YAML 1.2
+#filename in this repository:     description
+vigun.IT97K-499-35.gnm1.QnBw.genome_main.fna.gz:  Genome assembly
+vigun.IT97K-499-35.gnm1.QnBw.genome_hardmasked.fna.gz:  Genome assembly - hardmasked
+vigun.IT97K-499-35.gnm1.QnBw.genome_softmasked.fna.gz:  Genome assembly - softmasked
+vigun.IT97K-499-35.gnm1.QnBw.info_name_hash.txt:  sequence name correspondences between JGI assembly and Data Store assembly

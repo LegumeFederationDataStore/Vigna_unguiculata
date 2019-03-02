@@ -1,0 +1,5 @@
+%YAML 1.2
+# filename_in_this_repository: previous_name
+vigun.IT97K-499-35.gnm1.QnBw.genome_main.fna.gz:  Vunguiculata_469_v1.0.fa.gz
+vigun.IT97K-499-35.gnm1.QnBw.genome_hardmasked.fna.gz:  Vunguiculata_469_v1.0.hardmasked.fa.gz
+vigun.IT97K-499-35.gnm1.QnBw.genome_softmasked.fna.gz:  Vunguiculata_469_v1.0.softmasked.fa.gz

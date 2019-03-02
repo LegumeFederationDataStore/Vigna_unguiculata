@@ -1,0 +1,12 @@
+%YAML 1.2
+vigun.IT97K-499-35.gnm1.ann1.zb5D.annotation_info.txt: JGI functional annotation info
+vigun.IT97K-499-35.gnm1.ann1.zb5D.cds.fna.gz: Coding sequence (CDS)
+vigun.IT97K-499-35.gnm1.ann1.zb5D.cds_primaryTranscript.fna.gz: Coding sequence (CDS) - primary transcript
+vigun.IT97K-499-35.gnm1.ann1.zb5D.defline.txt: JGI suggested deflines
+vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models.gff3: gene models, no explicit exon features 
+vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models_main.gff3.gz: gene models, including separate exon records and functional descriptors
+vigun.IT97K-499-35.gnm1.ann1.zb5D.protein.faa.gz: Protein sequences 
+vigun.IT97K-499-35.gnm1.ann1.zb5D.protein_primaryTranscript.faa.gz: Protein sequences - primary only
+vigun.IT97K-499-35.gnm1.ann1.zb5D.repeatmasking.gff3: Coordinates for repeat-masking the assembly
+vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript.fna.gz: Transcripts
+vigun.IT97K-499-35.gnm1.ann1.zb5D.transcript_primaryTranscript.fna.gz: Transcripts - primary only
